@@ -1,0 +1,5 @@
+{
+  "name": "PhishGuard AI",
+  "description": "A phishing detection tool combining XGBoost scoring with an LLM to perform an analysis to evaluate email risks.",
+  "requestFramePermissions": []
+}
